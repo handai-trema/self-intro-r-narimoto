@@ -7,4 +7,4 @@
 よろしくお願いします．  
 
 ##レポート  
-* [第1回(Hello Trema, 2016.10.05)](https://github.com/handai-trema/hello-trema-r-narimoto/report.md)
+* [第1回(Hello Trema, 2016.10.05)](https://github.com/handai-trema/hello-trema-r-narimoto/blob/master/report.md)
