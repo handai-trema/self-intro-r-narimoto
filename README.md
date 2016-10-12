@@ -7,4 +7,5 @@
 よろしくお願いします．  
 
 ##レポート  
-* [第1回(Hello Trema, 2016.10.05)](https://github.com/handai-trema/hello-trema-r-narimoto/blob/master/report.md)
+* [課題1(スイッチの切断イベント, 2016.10.05)](https://github.com/handai-trema/hello-trema-r-narimoto/blob/master/report1.md)
+* [課題2(Hello Trema, 2016.10.05)](https://github.com/handai-trema/hello-trema-r-narimoto/blob/master/report2.md)
