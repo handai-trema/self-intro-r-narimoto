@@ -7,5 +7,7 @@
 よろしくお願いします．  
 
 ##レポート  
-* [課題1(スイッチの切断イベント, 2016.10.05)](https://github.com/handai-trema/hello-trema-r-narimoto/blob/master/report1.md)
-* [課題2(Hello Trema, 2016.10.05)](https://github.com/handai-trema/hello-trema-r-narimoto/blob/master/report2.md)
+* [スイッチの切断イベント( 2016.10.05)](https://github.com/handai-trema/hello-trema-r-narimoto/blob/master/report1.md)
+* [Hello Trema( 2016.10.05)](https://github.com/handai-trema/hello-trema-r-narimoto/blob/master/report2.md)
+* [cbenchの高速化(2016.10.12)](https://github.com/handai-trema/cbench-r-narimoto/blob/master/report.md)
+* [複数スイッチ対応版 ラーニングスイッチ(2016.10.12)](https://github.com/handai-trema/learning-switch-r-narimoto/blob/master/report.md)
