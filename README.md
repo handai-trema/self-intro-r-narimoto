@@ -14,3 +14,5 @@
 * [パッチパネルの機能拡張(2016.10.19)](https://github.com/handai-trema/patch-panel-r-narimoto/blob/master/report.md)
 * [マルチプルテーブルを読む(2016.10.19)](https://github.com/handai-trema/learning-switch-r-narimoto/blob/master/report13.md)  
 * [ルータのCLIを作ろう(2016.11.02)](https://github.com/handai-trema/simple-router-r-narimoto/blob/master/report.md)
+* [実機でトポロジを動かそう(2016.11.09)](https://github.com/handai-trema/topology-amn/blob/master/report1.md)
+* [トポロジコントローラの拡張(2016.11.09)](https://github.com/handai-trema/topology-amn/blob/master/report2.md)
